@@ -6,7 +6,7 @@ crop_img/page-1_crop_4.jpg	LỊCH SỬ
 crop_img/page-1_crop_5.jpg	VIỆT NAM
 crop_img/page-1_crop_6.jpg	TẬP 1
 crop_img/page-1_crop_7.jpg	TỪ KHỞI THỦY ĐẾN THẾ KỶ X
-crop_img/page-1_crop_8.jpg	NHA XUAT BAN KHOA HOC XA HOI
+crop_img/page-1_crop_8.jpg	NHÀ XUẤT BẢN KHOA HỌC XÃ HỘI
 crop_img/page-3_crop_0.jpg	LỊCH SỬ VIỆT NAM
 crop_img/page-3_crop_1.jpg	TẬP 1
 crop_img/page-3_crop_2.jpg	TỪ KHỞI THỦY ĐẾN THẾ KỶ X
