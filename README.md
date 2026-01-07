@@ -49,3 +49,6 @@ cd CER_full_pipeline
 ```
 python inference_resshift.py -i [image folder/image path] -o [result folder] --task deblur --scale 1 
 ```
+
+Link to download model: https://huggingface.co/quangvinhthieu/pre_post_ocr
+Link to download dataset: https://huggingface.co/datasets/quangvinhthieu/pre_post_dataset_VN
