@@ -51,4 +51,5 @@ python inference_resshift.py -i [image folder/image path] -o [result folder] --t
 ```
 
 Link to download model: https://huggingface.co/quangvinhthieu/pre_post_ocr
+
 Link to download dataset: https://huggingface.co/datasets/quangvinhthieu/pre_post_dataset_VN
